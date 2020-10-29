@@ -22,7 +22,7 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 - [Set your commit email address in Git.](https://help.github.com/articles/setting-your-commit-email-address-in-git)
 
 ## Adding a mentor
-
+## to get the support 
 To add a mentor open `mentors.json` and please maintain the following format EXACTLY (replacing values where indicated):
 ```
      {
@@ -121,5 +121,7 @@ Please help us follow the best practice to make it easy for the reviewer as well
 - Be polite: Be polite to other community members.
 
 - Communicate: Whether you are working on a new feature or facing a doubt please feel free to ask us on our slack channel. We will be happy to help you out.
+
+- make sure you don't make any unnecessary changes 
 
 ### Happy Coding :v:
